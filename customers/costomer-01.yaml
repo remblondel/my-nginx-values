@@ -1,4 +1,5 @@
 name: "customer-0"
+address: "https://kubernetes.default.svc"
 values: |
   ## @param nameOverride String to partially override nginx.fullname template (will maintain the release name)
   ##
